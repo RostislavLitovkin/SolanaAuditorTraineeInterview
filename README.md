@@ -4,19 +4,17 @@ This repository has got 2 parts. The original task for both parts can be found i
 
 # Rust assignment
 
-### Rust version
+### Rust version:
 
-installed toolchains
---------------------
+#### installed toolchains
 
-stable-x86_64-unknown-linux-gnu (default)
-bpf
+- stable-x86_64-unknown-linux-gnu (default)
+- bpf
 
-active toolchain
-----------------
+#### active toolchain
 
-stable-x86_64-unknown-linux-gnu (default)
-rustc 1.62.1 (e092d0b6b 2022-07-16)
+- stable-x86_64-unknown-linux-gnu (default)
+- rustc 1.62.1 (e092d0b6b 2022-07-16)
 
 ### Setup:
 
