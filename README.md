@@ -29,7 +29,7 @@ rustc rust-assignment.rs
 
 Wormhole is a decentralized, cross-chain message passing protocol. It enables applications to send messages from one chain to another.
 
-On Feb 2, 2022, Wormhole bridge utilizing the Solana and Ethereum blockchain was hacked, resulting in inflating the wETH (Wormhole-wrapped Ether) tokens on Solana side of the bridge. There were total of 120k wETH minted without being backed by the real ETH. 93k wETH was then bridged to Ethereum blockchain.
+On Feb 2, 2022, Wormhole bridge utilizing the Solana and Ethereum blockchain was hacked, resulting in inflating the wETH (Wormhole-wrapped Ether) tokens on Solana side of the bridge. There was a total of 120k wETH minted without being backed by the real ETH. 93k wETH was then bridged to Ethereum blockchain.
 
 ### Actual cause of the hack
 
